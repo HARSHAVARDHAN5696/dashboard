@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset (replace with your dataset path)
-file_path = r"C:\Users\hp\OneDrive\Documents\P PROJECTS\weekly challenge 4\cbp21cd (1).xlsx"
+file_path = "cbp21cd (1).xlsx"
 df = pd.read_excel(file_path)
 
 # Page title
